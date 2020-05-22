@@ -8,5 +8,5 @@ wyycms 主要功能：
 
 后台地址 http://goadmin.weiyeying.cn
 
-![](goadmin.weiyeying.cn/static/img/demo1.png)
-![](goadmin.weiyeying.cn/static/img/demo2.png)
+![](http://goadmin.weiyeying.cn/static/img/demo1.png)
+![](http://goadmin.weiyeying.cn/static/img/demo2.png)
