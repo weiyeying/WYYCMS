@@ -6,7 +6,10 @@ wyycms 主要功能：
 
 网站管理 产品管理 文章管理 系统管理 后台权限功能 菜单自定义、权限自定义
 
-后台地址 http://goadmin.weiyeying.cn
+前台地址 http://www.weiyeying.cn 
+
+后台地址 http://www.weiyeying.cn/admin
+
 
 ![](http://goadmin.weiyeying.cn/static/img/demo1.png)
 ![](http://goadmin.weiyeying.cn/static/img/demo2.png)
